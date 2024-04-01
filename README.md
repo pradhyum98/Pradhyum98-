@@ -1,4 +1,4 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/04/38/93/15/360_F_438931535_DhZaUQHbGvGUxLzPNzT4inocmtABLBoO.jpg)]
+[![MasterHead](https://img.lovepik.com/background/20211021/large/lovepik-data-analysis-background-image_500442691.jpg)]
 <h1 align="center">Hi 👋, I'm Pradhyum Upadhyay</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/contented-man-typing-on-laptop-8924335-7299818.png">
