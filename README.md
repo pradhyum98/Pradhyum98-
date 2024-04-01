@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pradhyum Upadhyay</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/contented-man-typing-on-laptop-8924335-7299818.png">
