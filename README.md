@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Matplotlib**
 
-- 💬 Ask me about **Power-BI , Python , SQL**
+- 💬 Ask me about **Power-BI , Python , Excel , SQL**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z6Od7AtfyILzll4PEvyEempPFR-ynR0K/view?usp=sharing](https://drive.google.com/file/d/1Z6Od7AtfyILzll4PEvyEempPFR-ynR0K/view?usp=sharing)
 
