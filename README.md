@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pradhyum upadhyay" target="blank"><!-- --><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradhyum upadhyay" height="30" width="40" /></a>
-<a href="https://instagram.com/pradhyum20" target="blank"><!-- --><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradhyum20" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pradhyum upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradhyum upadhyay" height="30" width="40" /></a>
+<a href="https://instagram.com/pradhyum20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradhyum20" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@pradhyum2098" target="blank">      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pradhyum2098" height="30" width="40" /></a>
 </p>
 
@@ -31,16 +31,26 @@ PwC Switzerland Power BI Job Simulation![TASK 1 1](https://github.com/pradhyum98
 
 •	Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
 
-### Financial Analysis in Excel
-![Financial Analysis](images/financial_analysis.png)
-- Conducted financial analysis and forecasting using Excel, including cash flow statements, balance sheets, and profit/loss statements.
+•	Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
+
+•	Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
+
+
+### HR Dashboard using Power BI
+![HR dashboard](https://github.com/pradhyum98/Pradhyum98-/assets/73133235/08202a77-8712-48b7-a49c-b1cd98d22032)
+
+• Employed Power BI's data modeling capabilities to categorize employee attrition data based on education, age, years at the company, and salary brackets.
+
+• Developed interactive dashboards in Power BI, enabling HR stakeholders to dynamically explore attrition rates across different demographic and tenure segments.
+
+• Integrated Power BI with HRIS and other data sources to ensure real-time updates and accuracy of attrition metrics, facilitating timely decision-making.
 
 ### Customer Segmentation with SQL
 - Utilized SQL queries to segment customers based on purchasing behavior, demographics, and geography for targeted marketing campaigns.
 
 ## Contact Me
 
-- 📧 Email: [your.email@example.com](pradhyum2098.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/pradhyum-upadhyay-b26263240/)
+- 📧 Email: pradhyum2098@gmail.com
+- 💼 LinkedIn:www.linkedin.com/in/pradhyum-upadhyay-b26263240
 
 Feel free to reach out if you're interested in collaborating or have any questions about my work!
