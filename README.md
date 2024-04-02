@@ -45,8 +45,7 @@ PwC Switzerland Power BI Job Simulation![TASK 1 1](https://github.com/pradhyum98
 
 • Integrated Power BI with HRIS and other data sources to ensure real-time updates and accuracy of attrition metrics, facilitating timely decision-making.
 
-### Customer Segmentation with SQL
-- Utilized SQL queries to segment customers based on purchasing behavior, demographics, and geography for targeted marketing campaigns.
+
 
 ## Contact Me
 
